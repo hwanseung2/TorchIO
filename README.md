@@ -2,7 +2,7 @@
 
 안녕하세요, 프로메디우스 ML팀 인턴사원 유환승입니다. 이번 포스팅에서는 Pytorch를 기반으로 한 TorchIO를 통해 간단하게 3D segmentation을 진행하는 튜토리얼을 진행해보려 합니다.
 
-![image-20210226105203963](/Users/hwanseung/Library/Application Support/typora-user-images/image-20210226105203963.png)
+![image-20210226105203963](https://github.com/hwanseung2/TorchIO/blob/main/img/img_1.png)
 
 위의 Table은 3D U-Net : Learning Dense Volumentric Segmentation from Sparse Annotation에서 소개된 성능입니다. 2D segmentation에 비해서 상대적으로 3D를 통한 Segmentation 성능이 더 좋음을 확인할 수 있었습니다.저는 3D segmentation을 사용하기 쉽게 도와주는 TorchIO를 이용하여 code를 작성할 예정입니다.
 
@@ -196,7 +196,7 @@ train_loss, valid_loss = train(num_epochs, training_loader, validation_loader, m
 
 ## Result
 
-![image-20210226111806559](/Users/hwanseung/Library/Application Support/typora-user-images/image-20210226111806559.png)
+![image-20210226111806559](https://github.com/hwanseung2/TorchIO/blob/main/img/img_2.png)
 
 
 
