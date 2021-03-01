@@ -1,6 +1,6 @@
 # TorchIO를 이용한 3D Segmentation
 
-안녕하세요, 프로메디우스 ML팀 인턴사원 유환승입니다. 이번 포스팅에서는 Pytorch를 기반으로 한 TorchIO를 통해 간단하게 3D segmentation을 진행하는 튜토리얼을 진행해보려 합니다.
+안녕하세요. 이번 포스팅에서는 Pytorch를 기반으로 한 TorchIO를 통해 간단하게 3D segmentation을 진행하는 튜토리얼을 진행해보려 합니다.
 
 ![image-20210226105203963](https://github.com/hwanseung2/TorchIO/blob/main/img/img_1.png)
 
